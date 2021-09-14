@@ -1,5 +1,7 @@
 este es un primer ejercicio
 
-ALVEIRO JAVIER 
+ALVEIRO JAVIER tiene 40 años
 
-El señor <tito es un gato.
+VIVE EN BOGOTÁ
+
+El señor <tito es un gatITO
