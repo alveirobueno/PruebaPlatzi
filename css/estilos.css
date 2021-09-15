@@ -1,7 +1,13 @@
 body
 {
-    color: brown;
+    color: cornflowerblue;
     text-align: center;
+<<<<<<< HEAD
     font-family: "Garamond";
+=======
+    font-family: "Myriad Pro";
+    margin: 10px;
+    padding: 5px;
+>>>>>>> cabecera
 
 }
