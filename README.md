@@ -1,0 +1,2 @@
+# PruebaPlatzi
+Curso GIT PLatzi
